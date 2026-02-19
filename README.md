@@ -40,13 +40,13 @@ The company wants to ensure that
 
 The dataset contains the following fields:
 
--   Retailer, Retailer ID\
--   Invoice Date\
--   Region, State, City\
--   Price per Unit\
--   Units Sold\
--   Total Sales (Reported)\
--   Operating Profit\
+-   Retailer, Retailer ID<br>
+-   Invoice Date<br>
+-   Region, State, City<br>
+-   Price per Unit<br>
+-   Units Sold<br>
+-   Total Sales (Reported)<br>
+-   Operating Profit<br>
 -   Sales Method
 
 ------------------------------------------------------------------------
