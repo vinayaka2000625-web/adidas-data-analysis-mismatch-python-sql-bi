@@ -73,13 +73,7 @@ The dataset contains the following fields:
 8.  Built dashboards for executive insights and root cause analysis.
 
 
-### Python Analysis Screenshot(Corrected VS Mismatch)
-![Python Analysis](Adidas%20pic/screenshot%20Py.png)
 
-
-### SQL Query Screenshot(Based On Hypothesis)
-![SQL Query pic1](Adidas%20pic/SQL%20Screenshort%201.png)
-![SQL Query pic2](Adidas%20pic/SQL%20Screenshort%202.png)
 
 ------------------------------------------------------------------------
 
@@ -102,14 +96,13 @@ The dataset contains the following fields:
 KPIs showing total reported sales, corrected sales, revenue loss,
 leakage percentage, and operating margin to quantify financial impact.
 
-![Executive Summary](Adidas%20pic/Dashboard%201.png)
 
 ### Page 2 --- Pricing & Margin Drivers
 
 Charts showing price deviation and operating margin across regions and
 sales methods to identify root causes.
 
-![Pricing & Margin Drivers](Adidas%20pic/Dashboard%202.png)
+
 
 ------------------------------------------------------------------------
 
