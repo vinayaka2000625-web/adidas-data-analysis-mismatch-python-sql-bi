@@ -97,7 +97,7 @@ The dataset contains the following fields:
 KPIs showing total reported sales, corrected sales, revenue loss,
 leakage percentage, and operating margin to quantify financial impact.
 
-![Dashboard 1](Adidas%20pic/Dashboard1.png)
+![Dashboard 1](Adidas%20%20pic/Dashboard1.png)
 
 
 
@@ -105,7 +105,7 @@ leakage percentage, and operating margin to quantify financial impact.
 
 Charts showing price deviation and operating margin across regions and
 sales methods to identify root causes.
-![Dashboard 2](Adidas%20pic/Dashboard2.png)
+![Dashboard 2](Adidas%20%20pic/Dashboard2.png)
 
 
 ------------------------------------------------------------------------
